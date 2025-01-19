@@ -26,6 +26,7 @@ python main.py
 - **Right Arrow**: Move right
 - **Auto-fire**: Enabled by default
 - **ESC**: Pause game
+- **Q**: Exit game
 
 ## Features
 
